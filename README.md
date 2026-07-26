@@ -73,7 +73,7 @@ margin-top:30px;
 
 <section id="contact">
 <h2>Contact</h2>
-<p>Email: info@pakhub.com</p>
+<p>Email: info.alyanal424@gmail.com</p>
 </section>
 
 <footer>
