@@ -82,3 +82,13 @@ margin-top:30px;
 
 </body>
 </html>
+PakHub/
+│── index.html
+│── style.css
+│── script.js
+│── firebase.js
+│── login.html
+│── signup.html
+│── profile.html
+│── upload.html
+│── images/
